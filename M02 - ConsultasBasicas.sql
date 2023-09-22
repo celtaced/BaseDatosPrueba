@@ -1,3 +1,8 @@
+-- ###################################### --
+-- #         TABLAS DE PRUEBA           # --
+-- #           By Celtaced              # --
+-- ###################################### --
+
 -- CREACION DE TABLAS
 -- tabla transaccional de informacion de tarjeta
 CREATE TABLE tarjetas(
